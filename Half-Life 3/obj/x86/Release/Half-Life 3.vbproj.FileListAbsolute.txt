@@ -1,0 +1,9 @@
+E:\Half-Life 3\Half-Life 3\bin\Release\Half-Life 3.exe
+E:\Half-Life 3\Half-Life 3\bin\Release\Half-Life 3.pdb
+E:\Half-Life 3\Half-Life 3\bin\Release\Half-Life 3.xml
+E:\Half-Life 3\Half-Life 3\obj\x86\Release\Half_Life_3.Form1.resources
+E:\Half-Life 3\Half-Life 3\obj\x86\Release\Half_Life_3.Resources.resources
+E:\Half-Life 3\Half-Life 3\obj\x86\Release\Half-Life 3.vbproj.GenerateResource.Cache
+E:\Half-Life 3\Half-Life 3\obj\x86\Release\Half-Life 3.exe
+E:\Half-Life 3\Half-Life 3\obj\x86\Release\Half-Life 3.xml
+E:\Half-Life 3\Half-Life 3\obj\x86\Release\Half-Life 3.pdb

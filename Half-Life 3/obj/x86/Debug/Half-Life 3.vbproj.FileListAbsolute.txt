@@ -1,0 +1,18 @@
+C:\Users\tgpsi1720\AppData\Local\Temporary Projects\Half-Life 3\bin\Debug\Half-Life 3.exe
+C:\Users\tgpsi1720\AppData\Local\Temporary Projects\Half-Life 3\bin\Debug\Half-Life 3.pdb
+C:\Users\tgpsi1720\AppData\Local\Temporary Projects\Half-Life 3\bin\Debug\Half-Life 3.xml
+C:\Users\tgpsi1720\AppData\Local\Temporary Projects\Half-Life 3\obj\x86\Debug\Half_Life_3.Form1.resources
+C:\Users\tgpsi1720\AppData\Local\Temporary Projects\Half-Life 3\obj\x86\Debug\Half_Life_3.Resources.resources
+C:\Users\tgpsi1720\AppData\Local\Temporary Projects\Half-Life 3\obj\x86\Debug\Half-Life 3.vbproj.GenerateResource.Cache
+C:\Users\tgpsi1720\AppData\Local\Temporary Projects\Half-Life 3\obj\x86\Debug\Half-Life 3.exe
+C:\Users\tgpsi1720\AppData\Local\Temporary Projects\Half-Life 3\obj\x86\Debug\Half-Life 3.xml
+C:\Users\tgpsi1720\AppData\Local\Temporary Projects\Half-Life 3\obj\x86\Debug\Half-Life 3.pdb
+E:\Half-Life 3\Half-Life 3\obj\x86\Debug\Half-Life 3.exe
+E:\Half-Life 3\Half-Life 3\obj\x86\Debug\Half-Life 3.xml
+E:\Half-Life 3\Half-Life 3\obj\x86\Debug\Half-Life 3.pdb
+E:\Half-Life 3\Half-Life 3\bin\Debug\Half-Life 3.exe
+E:\Half-Life 3\Half-Life 3\bin\Debug\Half-Life 3.pdb
+E:\Half-Life 3\Half-Life 3\bin\Debug\Half-Life 3.xml
+E:\Half-Life 3\Half-Life 3\obj\x86\Debug\Half_Life_3.Form1.resources
+E:\Half-Life 3\Half-Life 3\obj\x86\Debug\Half_Life_3.Resources.resources
+E:\Half-Life 3\Half-Life 3\obj\x86\Debug\Half-Life 3.vbproj.GenerateResource.Cache
